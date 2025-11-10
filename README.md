@@ -52,7 +52,7 @@ A Wi-Fi enabled irrigation system that waters plants automatically based on soil
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-irrigation.git
+git clone https://github.com/PatrickJohnFajardo/IOT-Irrigation-System.git
 ```
 
 2. Open code in Arduino IDE.
